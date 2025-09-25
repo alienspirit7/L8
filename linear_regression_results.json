@@ -1,0 +1,24 @@
+{
+  "data_summary": {
+    "sample_size": 10000,
+    "mean_x": 0.49415955768429964,
+    "mean_y": 0.5992136606189006
+  },
+  "regression_coefficients": {
+    "slope_beta1": 0.596906923093177,
+    "intercept_beta0": 0.30424639952447996,
+    "equation": "y = 0.596907x + 0.304246"
+  },
+  "model_performance": {
+    "r_squared": 0.4945375523265627,
+    "r_squared_percentage": 49.45375523265627,
+    "interpretation": "Moderate fit - model explains moderate variance in the data",
+    "total_sum_squares": 595.9904077699803,
+    "residual_sum_squares": 301.2507703013042
+  },
+  "analysis_insights": [
+    "The model explains 49.45% of the variance in the dependent variable.",
+    "The relationship between X and Y is positive.",
+    "For every unit increase in X, Y increases by approximately 0.5969 units."
+  ]
+}
